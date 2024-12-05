@@ -1,6 +1,6 @@
 ### Bem-vindos ao meu Github 🫡
 ## Sobre mim ✨
-Meu nome é Naira, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas no IFPB de Monteiro, e atualmente estou estagiando na empresa Compass UOL 🧡🚀
+Meu nome é Naira, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas no IFPB de Monteiro 🧡
 
 #### Curiosidades 🤓
 
